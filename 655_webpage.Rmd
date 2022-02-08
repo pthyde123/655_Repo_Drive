@@ -1,0 +1,13 @@
+---
+title: "index.Rmd"
+author: "Peter"
+date: "2/7/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+![](https://www.johnnyseeds.com/dw/image/v2/BBBW_PRD/on/demandware.static/-/Sites-jss-master/default/dwd7dce23a/images/products/vegetables/03130g_02_red_ember.jpg?sw=387&cx=302&cy=0&cw=1196&ch=1196)
